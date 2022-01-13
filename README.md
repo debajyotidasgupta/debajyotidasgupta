@@ -77,7 +77,10 @@
 <a href="https://numpy.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="npm" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=debajyotidasgupta&show_icons=true&locale=en" alt="chandrikadeb7" /></p>
+<div style="display:flex;flex-direction:column;">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=debajyotidasgupta&show_icons=true&locale=en&theme=radical" alt="debajyotidasgupta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajyotidasgupta&theme=radical" alt="debajyotidasgupta" /></p>
+</div>
 
 <!--
 **debajyotidasgupta/debajyotidasgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
