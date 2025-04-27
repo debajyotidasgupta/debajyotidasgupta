@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/DebajyotiD12" target="blank"><img src="https://img.shields.io/twitter/follow/DebajyotiD12?logo=twitter&style=for-the-badge" alt="DebajyotiD12" /></a> </p>
 
-- 🌱 I’m currently learning about **Docker and Kubernetes**
+- 🌱 I’m currently learning about **Generative AI at Scale, Efficient Planning and Perception, 4D modelling and Reconstruction, Long-Horizon Problems with Memory**
 
 - 👨‍💻 All about me is available at [My Website](https://debajyotidasgupta.github.io/)
 
