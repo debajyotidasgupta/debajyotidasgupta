@@ -15,15 +15,15 @@
 
 - 🌱 I’m currently learning about **Generative AI at Scale, Efficient Planning and Perception, 4D modelling and Reconstruction, Long-Horizon Problems with Memory**
 
-- 👨‍💻 All about me is available at [My Website](https://debajyotidasgupta.github.io/)
+- 👨‍💻 All about me is available at [My Website](https://debajyotidasgupta.com/)
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@debasisgupta07/kwoc-project-report-end-evaluation-14ea785111c4)
 
-- 💬 Ask me about **C/C++, Python, ReactJS, ML, DL**
+- 💬 Ask me about **C/C++, Python, ReactJS, ML, DL, CV, NLP**
 
 - 📫 How to reach me **debajyotidasgupta@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://debajyotidasgupta.github.io/)
+- 📄 Know about my work & experiences [My Resume](https://debajyotidasgupta.com/)
 
 ### What are my featured projects:question::rocket:
 <code>[Desktop-Screen-Recorder](https://github.com/debajyotidasgupta/Desktop-Screen-Recorder)</code> 🖥️ 
