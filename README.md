@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Debajyoti Dasgupta</h1>
 <h3 align="center">git commit -m "Hello, I'm a Undergraduate Student at IIT Kharagpur"</h3>
 
-### Wanna stalk my website:question::point_right: [Click Here](https://debajyotidasgupta.github.io/):sparkles:
+### Wanna stalk my website :question: :point_right: [Click Here](https://debajyotidasgupta.com/):sparkles:
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=debajyoidasgupta&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p> -->
 
